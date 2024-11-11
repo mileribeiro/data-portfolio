@@ -1,32 +1,39 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<h1>Bem-vindo(a) ao meu portfólio! 👋</h1>
+Este repositório reúne projetos que refletem minha jornada de aprendizado e prática em ciência de dados. Aqui você encontrará projetos prontos e em andamento, além de informações detalhadas sobre minha trajetória profissional e acadêmica.
 
+<h2>Projetos em destaque</h2>
+<h3>Python:</h3>
+<ul>
+	<li><strong>10Km Race Data Analysis:</strong> Análise detalhada dos dados de uma corrida de 10 km. Neste projeto, utilizei bibliotecas como Pandas e Matplotlib para explorar e visualizar o desempenho dos participantes.
+	</li>
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+   <li><strong>NYC School Performance Analysis:</strong> Um estudo das métricas de desempenho das escolas públicas de Nova York. O projeto foca na análise exploratória e correlações entre diferentes fatores que influenciam os resultados escolares.
+   </li>
+</ul>
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+<h3>Excel:</h3>
+<ul>
+	<li><strong>Analyzing Customer Churn:</strong> Um painel interativo e análise detalhada para identificar padrões e prever o churn de clientes usando fórmulas avançadas e recursos do Excel.
+	</li>
+</ul>
 
-(* = not included)
+<h2>Projetos em andamento</h2>
+<p>Estou constantemente aprimorando minhas habilidades e desenvolvendo novos projetos nas seguintes ferramentas:</p>
+<ul>
+<li><b>R:</b> Aplicações estatísticas e modelagem.</li>
+<li><b>Power BI:</b> Dashboards interativos para insights visuais.</li>
+<li><b>SQL:</b> Manipulação e análise de grandes volumes de dados.</li>
+<li><b>Tableau:</b> Visualizações dinâmicas e storytelling com dados.</li>
+</ul>
 
-AJ
-aj@lkn.io | @ajlkn
+<h2>Sobre Mim</h2>
+<p>Sou apaixonada por tecnologia, com uma trajetória que inclui uma transição de carreira em andamento. Tenho experiência com diferentes ferramentas e linguagens, e continuo me especializando em ciência e engenharia de dados. Meu portfólio reflete essa evolução, apresentando projetos práticos e certificações relevantes, como cursos em Python, Excel Avançado, Data Science e mais.</p>
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+<h2>Entre em Contato</h2>
+<p>Se você deseja discutir algum projeto, colaborar ou simplesmente trocar ideias, fique à vontade para me contatar através do LinkedIn ou e-mail.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style="font-size: 9px;">Este portfólio foi inspirado em <a href="https://github.com/tiannaparris/TiannaTheAnalyst">tiannaparris/TiannaTheAnalyst</a></p>
