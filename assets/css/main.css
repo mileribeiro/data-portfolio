@@ -3375,6 +3375,20 @@ input, select, textarea {
 
 /* Banner */
 
+	#banner .banner-content {
+		display: flex;
+		align-items: center;
+		gap: 20px; 
+	}
+
+	#banner .profile-photo {
+		width: 300px; 
+		height: 300px;
+		border-radius: 50%; 
+		object-fit: cover; 
+		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+	}
+
 	#banner {
 		-moz-align-items: center;
 		-webkit-align-items: center;

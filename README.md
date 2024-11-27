@@ -13,7 +13,12 @@ Este repositório reúne projetos que refletem minha jornada de aprendizado e pr
 
 <h3>Excel:</h3>
 <ul>
-	<li><strong>Analyzing Customer Churn:</strong> Um painel interativo e análise detalhada para identificar padrões e prever o churn de clientes usando fórmulas avançadas e recursos do Excel.
+	<li><strong>Analyzing Customer Churn:</strong> Visão estratégica sobre as vendas e a participação de mercado da empresa Sintec em comparação aos fabricantes concorrentes.</li>
+</ul>
+
+<h3>Power BI:</h3>
+<ul>
+	<li><strong>Competitor Sales Analysis:</strong> Um painel interativo e análise detalhada para identificar padrões e prever o churn de clientes usando fórmulas avançadas e recursos do Excel.
 	</li>
 </ul>
 
@@ -21,7 +26,6 @@ Este repositório reúne projetos que refletem minha jornada de aprendizado e pr
 <p>Estou constantemente aprimorando minhas habilidades e desenvolvendo novos projetos nas seguintes ferramentas:</p>
 <ul>
 <li><b>R:</b> Aplicações estatísticas e modelagem.</li>
-<li><b>Power BI:</b> Dashboards interativos para insights visuais.</li>
 <li><b>SQL:</b> Manipulação e análise de grandes volumes de dados.</li>
 <li><b>Tableau:</b> Visualizações dinâmicas e storytelling com dados.</li>
 </ul>
